@@ -20,7 +20,8 @@ Encryption Engine: AES-256 (CBC Mode) leveraging the native Windows BCrypt API.
 
 Evasion & Analysis: By using legitimate system calls, the binary achieved a 22/71 detection rate on VirusTotal.
 
-Detection Evidence: ![Resultado virustotal](Captura_de_pantalla_2026-01-07_225228.png)
+Detection Evidence: ![Resultado virustotal]<img width="1919" height="916" alt="Captura de pantalla 2026-01-07 225228" src="https://github.com/user-attachments/assets/a6c73fa1-fe28-484e-8ca0-a9f08946bc74" />
+
 
 
 🇪🇸 Descripción (Español)
@@ -40,4 +41,5 @@ Motor Criptográfico: AES-256 (Modo CBC) mediante la API nativa BCrypt.
 
 Evasión y Análisis: El binario utiliza llamadas legítimas al sistema, logrando una tasa de detección de 22/71 en VirusTotal.
 
-Evidencia de Detección: ![Resultado virustotal](Captura_de_pantalla_2026-01-07_225228.png)
+Evidencia de Detección: ![Resultado virustotal]<img width="1919" height="916" alt="Captura de pantalla 2026-01-07 225228" src="https://github.com/user-attachments/assets/f053e0b6-650f-42a4-82c0-40901ea3c4d5" />
+
