@@ -1,5 +1,8 @@
 # CriptoGuard-Research-Native-Windows-AES-256-Python-C2-PoC
 
+**Final Note
+This work is strictly educational. As a young developer in Colombia, this project serves as my foundation for understanding how modern digital infrastructure is built and defended.**
+
 🇺🇸 Project Description (English)
 This is a Proof of Concept (PoC) for a remote encryption system developed in native C++ and controlled via a Python-based C2 server, focusing on system architecture and offensive security research.
 
